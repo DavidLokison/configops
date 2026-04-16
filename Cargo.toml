@@ -1,6 +1,11 @@
 [package]
 name = "configops"
 version = "1.0.0"
+authors = ["David Ehnert <contact@davidlokison.com>"]
+description = "Customizable configuration storage via traits"
+license = "MIT"
+repository = "https://github.com/DavidLokison/configops"
+readme = "README.md"
 edition = "2024"
 
 [dependencies]
