@@ -1,6 +1,6 @@
 [package]
 name = "configops"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["David Ehnert <contact@davidlokison.com>"]
 description = "Customizable configuration storage via traits"
 license = "MIT"

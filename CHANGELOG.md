@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-04-17
+
 ### Fixed
 
 - Remove unnecessary serde_derive dependency
@@ -20,5 +22,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Error` type to handle IO and parsing failures
 - TOML file type support
 
-[Unreleased]: https://github.com/DavidLokison/configops/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/DavidLokison/configops/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/DavidLokison/configops/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/DavidLokison/configops/releases/tag/v1.0.0
